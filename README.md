@@ -4,7 +4,7 @@
 
 This project demonstrates real-time testing on a local machine using a YOLO model trained with [Roboflow](https://roboflow.com/). The project is part of my AI training course. For an in-depth explanation of the training process, please watch my detailed video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bAFI27Tpm3E?si=XqwGcEY5iIq_e4Kv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/bAFI27Tpm3E/maxresdefault.jpg)](https://youtu.be/bAFI27Tpm3E)
 
 ## Getting Started
 
