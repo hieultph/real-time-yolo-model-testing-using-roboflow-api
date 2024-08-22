@@ -19,7 +19,7 @@ Follow these steps to get the project up and running:
    ```sh
    pip install -r requirements.txt
    ```
-3. **Update Roboflow API Key and Model**
+3. **Update Roboflow API Key and Model:**
    Edit the `roboflow_config.json` file to replace `"ROBOFLOW_MODEL"` with your model version and `"ROBOFLOW_API_KEY"` with your actual API key obtained from Roboflow.
    
 3. **Run the Testing Script:**
